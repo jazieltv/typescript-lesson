@@ -28,7 +28,7 @@ class Goblin extends Character {
   }
 }
 
-//the process of hiding the internal details of an application from the outer world
+//the process of hiding the internal details of an application from the outer world(ONLY SHOWING THE ESSENTIAL FEATURES)
 //dvd player examples---when pressing a button on it, it plays/pauses/etc... and we dont see the
 //                      whole process and details that go into making it do that specific task
 //  so in OOP terms we are hiding the properties and methods

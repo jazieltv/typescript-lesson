@@ -15,11 +15,7 @@ console.log(person.age); // error: Property 'age' is private and can only be acc
 
 person.introduce(); // prints "Hi, my name is Jaziel and I am 23 years old. "
 
-// This method comes when you want to access any property of
-// an object. A getter is also called an accessor. setter: This
-// method comes when you want to change any property of an object
-
-//group related variables and functions that operate on them
-//into objects, which turns into encapsulation
+//Encapsulation is the technique of hiding the implementation details of a class from the outside world,
+//and only exposing a public interface for interacting with the class.
 
 //encapsulation is required for abstraction
