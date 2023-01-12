@@ -58,9 +58,6 @@ console.log(printName(jack));
 // This is due to the fact that TypeScript’s type system is based on the shape of the values
 // and not on what concrete type values have.
 
-//here we have the parent class, Character, and child class, Orc. Orc is overwriting the properties
-//and methods that are already in the parent class
-
 //many=forms
 //tehcnnique that that allows to replace conditionals
 //allows you to create a class that has more thsn one form

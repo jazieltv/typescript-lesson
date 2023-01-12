@@ -4,5 +4,7 @@ while reusing the existing class's attributes and behaviors.
 The class which inherits properties and methods is called the child class. 
 And the class whose properties and methods are inherited is known as the parent class.
 
+also can override in the child class and it will render whatever you 'replaced' it with
+
 Inheritance allows you to reuse the functionality of an existing class without rewriting it.
 
