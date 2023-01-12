@@ -1,0 +1,11 @@
+Abstraction is the process of exposing only the essential features of an object 
+and hiding the implementation details.
+
+Abstraction is a key principle of design. 
+Since object-oriented programs can get quite large, 
+it's just not humanly possible to expect others to be aware of the inner-workings of each and every class,
+or component within them. 
+Therefore, we strive to abstract objects in a way that makes them intention-revealing, 
+simple to use, and simple to understand.
+
+

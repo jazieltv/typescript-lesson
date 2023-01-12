@@ -1,0 +1,46 @@
+OOP-computter programming model that organizes software design around
+data or objects, rather than functions and logic
+    -when coding in OOP there are less and less parameters
+     because they get put into properties in the class that theyre in
+
+Going to be discussing the four terms:
+    Encapsulation
+    Abstraction
+    Inheritance
+    Polymorphism
+
+While presenting the four terms will be creating classes that have a constructor method and 2 methods
+
+Class is a blueprint for creating objects:
+        class restaurantWorkers {
+                name: string;
+                salary: number;
+
+
+A contructor Method is a special function of the class that is responsible for 
+intializing the variables of the class
+        class restaurantWorkers {
+            name: string;
+            salary: number;
+
+        constructor(name: string, salary: number) {
+            this.name = name;
+            this.salary = salary;
+            }
+
+a method is a block of code, defined inside a class and only executed when being called. 
+Methods divide a large task into small parts and perform the specific operation of that program
+
+        class restaurantWorkers {
+            name: string;
+            salary: number;
+
+        constructor(name: string, salary: number) {
+            this.name = name;
+            this.salary = salary;
+            }
+
+        giveInfo() {
+            return `${this.name} + " is making " + ${this.salary}';
+            }
+        }

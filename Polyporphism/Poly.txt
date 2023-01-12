@@ -1,0 +1,8 @@
+Polymorphism provides the ability for us to design for dynamic runtime behavior, 
+easy extensibility, and substitutability.
+
+Polymorphism is very important in a statically typed language. 
+It lets you substitute values basic on this polymorphic principle.
+
+In a nutshell, it means one object having many forms.
+

@@ -1,0 +1,16 @@
+Encapsulation is the technique of hiding the implementation details of a class from the outside world, 
+and only exposing a public interface for interacting with the class.
+
+Encapsulation enables you to develop robust software 
+because you set the appropriate access boundaries to class data from calling code.
+
+It gives you better control of class attributes and methods, 
+and the option to make certain members read or write only. 
+
+This fine-tuning of access to class data helps to ensure that your code is of higher quality 
+and easier to maintain.
+
+Abstraction is the method of hiding the unwanted information. Whereas encapsulation is a 
+method to hide the data in a single entity or unit along with a method to protect information from outside
+
+

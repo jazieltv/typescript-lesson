@@ -1,0 +1,8 @@
+Inheritance is the technique of creating a new class from an existing class, 
+while reusing the existing class's attributes and behaviors.
+
+The class which inherits properties and methods is called the child class. 
+And the class whose properties and methods are inherited is known as the parent class.
+
+Inheritance allows you to reuse the functionality of an existing class without rewriting it.
+
