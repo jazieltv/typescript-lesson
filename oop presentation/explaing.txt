@@ -1,3 +1,8 @@
+OOP-computter programming model that organizes software design around
+data or objects, rather than functions and logic
+    -when coding in OOP there are less and less parameters
+     because they get put into properties in the class that theyre in
+
 Going to be discussing the four terms:
     Encapsulation
     Abstraction
