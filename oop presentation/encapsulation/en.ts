@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class Person {
   constructor(private name: string, private age: number) {}
 
@@ -19,3 +20,5 @@ person.introduce(); // prints "Hi, my name is Jaziel and I am 23 years old. "
 //and only exposing a public interface for interacting with the class.
 
 //encapsulation is required for abstraction
+=======
+>>>>>>> parent of 376a393 (updating presentation)

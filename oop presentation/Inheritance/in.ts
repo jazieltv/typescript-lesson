@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class Person {
   constructor(private firstName: string, private lastName: string) {
     this.firstName = firstName;
@@ -40,3 +41,5 @@ console.log(employee.describe()); //method overriding when calling `employee.des
 // This is John Doe
 
 //mechanism that alows you to eliminate redundant code and also have cpde reuseability
+=======
+>>>>>>> parent of 376a393 (updating presentation)

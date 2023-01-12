@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class Character {
   public name: string;
   public damage: number;
@@ -33,3 +34,5 @@ class Goblin extends Character {
 //                      whole process and details that go into making it do that specific task
 //  so in OOP terms we are hiding the properties and methods
 //reduce the impact of change and makes the interface similar(less properties and methods to understand)
+=======
+>>>>>>> parent of 376a393 (updating presentation)
