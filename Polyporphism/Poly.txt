@@ -4,5 +4,9 @@ easy extensibility, and substitutability.
 Polymorphism is very important in a statically typed language. 
 It lets you substitute values basic on this polymorphic principle.
 
+Polymorphism is the abstract concept of dealing with multiple types in a 
+uniform manner, and interfaces are a way to implement that concept. Code 
+that interacts with an interface can interact with any type that provides that interface.
+
 In a nutshell, it means one object having many forms.
 

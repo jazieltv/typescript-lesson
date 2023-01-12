@@ -1,7 +1,7 @@
 class Person {
   constructor(private name: string, private age: number) {}
 
-  introduce(): void {
+  introduce(): string {
     console.log(`Hi, my name is ${this.name} and I am ${this.age} years old.`);
   }
 }
